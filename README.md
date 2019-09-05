@@ -1,2 +1,2 @@
 # Trash
-This is Trash 
+This is Trash .
